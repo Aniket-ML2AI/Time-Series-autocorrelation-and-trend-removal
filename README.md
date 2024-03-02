@@ -1,0 +1,1 @@
+Time series auto correlation and Trend Removal concepts
